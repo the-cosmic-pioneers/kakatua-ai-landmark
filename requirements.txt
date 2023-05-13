@@ -5,3 +5,4 @@ pillow
 numpy
 pandas
 tensorflow-hub
+tensorflow_hub
