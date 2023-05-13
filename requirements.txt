@@ -1,6 +1,7 @@
 tensorflow
-tensorflow-hub
 flask
 pillow
 numpy
 pandas
+tensorflow-hub
+tensorflow_hub

@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 #Load Models & labels
 model = "https://tfhub.dev/google/on_device_vision/classifier/landmarks_classifier_asia_V1/1"
-label = "landmarks_classifier_asia_V1_label_map.csv"
+label = "./landmarks_classifier_asia_V1_label_map.csv"
 
 
 #Check for app running
