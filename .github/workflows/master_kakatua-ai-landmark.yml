@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'kakatua-ai-landmark'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6D3E5CA4C80427CB1C0827100654FFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_80C75A8DAF5141759297B532ECE60A89 }}
